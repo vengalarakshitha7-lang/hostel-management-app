@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "583341402697",
+    "project_id": "smarthostelmanagement01",
+    "storage_bucket": "smarthostelmanagement01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583341402697:android:279b30f8c5bccac1d92d98",
+        "android_client_info": {
+          "package_name": "com.example.smart_hostel_mngment_01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRU4RpFFWNYOVb3PUFXsEI2Z2CwqfYd8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
